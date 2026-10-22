@@ -1,0 +1,29 @@
+{
+  "checksums_sha256": {
+    "skills/market-analysis-atlas/data/patterns.json": "d4380c1d30a53bcf7cea865ed22563bddcb5ef52dd0c39ad734007907a036be9",
+    "skills/market-analysis-atlas/data/terms.jsonl": "61f5758c7e0127825b97e40afc4193e841f20871b1bc8ee8237055f7f3e59bc8",
+    "skills/market-analysis-atlas/data/verified-links.json": "c229d58e712f50112f83246e80352f273ff4d3b2feb0cc3103dcd76a342177a5"
+  },
+  "copyrighted_articles_bundled": 0,
+  "description_source": "original-authored",
+  "diagram_count": 100,
+  "domains": {
+    "candlesticks": 37,
+    "chart_patterns": 63,
+    "crypto": 30,
+    "derivatives": 35,
+    "fixed_income": 45,
+    "fundamentals": 69,
+    "indicators": 64,
+    "macro": 84,
+    "markets": 46,
+    "quantitative": 60
+  },
+  "illustrated_pattern_cards": 100,
+  "investopedia_complete": false,
+  "name": "market-analysis-atlas",
+  "original_definitions": 533,
+  "release_date": "2026-10-23",
+  "third_party_charts_bundled": 0,
+  "version": "1.0.0"
+}

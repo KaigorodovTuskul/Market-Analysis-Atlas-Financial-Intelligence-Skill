@@ -1,0 +1,802 @@
+[
+  {
+    "id": "head-and-shoulders",
+    "term": "Head and Shoulders",
+    "category": "chart_patterns",
+    "image": "../assets/charts/head-and-shoulders.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "inverse-head-and-shoulders",
+    "term": "Inverse Head and Shoulders",
+    "category": "chart_patterns",
+    "image": "../assets/charts/inverse-head-and-shoulders.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "double-top",
+    "term": "Double Top",
+    "category": "chart_patterns",
+    "image": "../assets/charts/double-top.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "double-bottom",
+    "term": "Double Bottom",
+    "category": "chart_patterns",
+    "image": "../assets/charts/double-bottom.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "triple-top",
+    "term": "Triple Top",
+    "category": "chart_patterns",
+    "image": "../assets/charts/triple-top.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "triple-bottom",
+    "term": "Triple Bottom",
+    "category": "chart_patterns",
+    "image": "../assets/charts/triple-bottom.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "rounding-top",
+    "term": "Rounding Top",
+    "category": "chart_patterns",
+    "image": "../assets/charts/rounding-top.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "rounding-bottom",
+    "term": "Rounding Bottom",
+    "category": "chart_patterns",
+    "image": "../assets/charts/rounding-bottom.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "cup-and-handle",
+    "term": "Cup and Handle",
+    "category": "chart_patterns",
+    "image": "../assets/charts/cup-and-handle.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "ascending-triangle",
+    "term": "Ascending Triangle",
+    "category": "chart_patterns",
+    "image": "../assets/charts/ascending-triangle.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "descending-triangle",
+    "term": "Descending Triangle",
+    "category": "chart_patterns",
+    "image": "../assets/charts/descending-triangle.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "symmetrical-triangle",
+    "term": "Symmetrical Triangle",
+    "category": "chart_patterns",
+    "image": "../assets/charts/symmetrical-triangle.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "rising-wedge",
+    "term": "Rising Wedge",
+    "category": "chart_patterns",
+    "image": "../assets/charts/rising-wedge.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "falling-wedge",
+    "term": "Falling Wedge",
+    "category": "chart_patterns",
+    "image": "../assets/charts/falling-wedge.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "bull-flag",
+    "term": "Bull Flag",
+    "category": "chart_patterns",
+    "image": "../assets/charts/bull-flag.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "bear-flag",
+    "term": "Bear Flag",
+    "category": "chart_patterns",
+    "image": "../assets/charts/bear-flag.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "bull-pennant",
+    "term": "Bull Pennant",
+    "category": "chart_patterns",
+    "image": "../assets/charts/bull-pennant.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "bear-pennant",
+    "term": "Bear Pennant",
+    "category": "chart_patterns",
+    "image": "../assets/charts/bear-pennant.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "rectangle-range",
+    "term": "Rectangle Range",
+    "category": "chart_patterns",
+    "image": "../assets/charts/rectangle-range.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "ascending-channel",
+    "term": "Ascending Channel",
+    "category": "chart_patterns",
+    "image": "../assets/charts/ascending-channel.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "descending-channel",
+    "term": "Descending Channel",
+    "category": "chart_patterns",
+    "image": "../assets/charts/descending-channel.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "horizontal-channel",
+    "term": "Horizontal Channel",
+    "category": "chart_patterns",
+    "image": "../assets/charts/horizontal-channel.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "broadening-formation",
+    "term": "Broadening Formation",
+    "category": "chart_patterns",
+    "image": "../assets/charts/broadening-formation.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "megaphone-pattern",
+    "term": "Megaphone Pattern",
+    "category": "chart_patterns",
+    "image": "../assets/charts/megaphone-pattern.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "diamond-top",
+    "term": "Diamond Top",
+    "category": "chart_patterns",
+    "image": "../assets/charts/diamond-top.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "diamond-bottom",
+    "term": "Diamond Bottom",
+    "category": "chart_patterns",
+    "image": "../assets/charts/diamond-bottom.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "island-reversal",
+    "term": "Island Reversal",
+    "category": "chart_patterns",
+    "image": "../assets/charts/island-reversal.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "gap-up",
+    "term": "Gap Up",
+    "category": "chart_patterns",
+    "image": "../assets/charts/gap-up.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "gap-down",
+    "term": "Gap Down",
+    "category": "chart_patterns",
+    "image": "../assets/charts/gap-down.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "breakaway-gap",
+    "term": "Breakaway Gap",
+    "category": "chart_patterns",
+    "image": "../assets/charts/breakaway-gap.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "runaway-gap",
+    "term": "Runaway Gap",
+    "category": "chart_patterns",
+    "image": "../assets/charts/runaway-gap.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "exhaustion-gap",
+    "term": "Exhaustion Gap",
+    "category": "chart_patterns",
+    "image": "../assets/charts/exhaustion-gap.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "dead-cat-bounce",
+    "term": "Dead Cat Bounce",
+    "category": "chart_patterns",
+    "image": "../assets/charts/dead-cat-bounce.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "v-bottom",
+    "term": "V Bottom",
+    "category": "chart_patterns",
+    "image": "../assets/charts/v-bottom.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "v-top",
+    "term": "V Top",
+    "category": "chart_patterns",
+    "image": "../assets/charts/v-top.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "bump-and-run-reversal",
+    "term": "Bump and Run Reversal",
+    "category": "chart_patterns",
+    "image": "../assets/charts/bump-and-run-reversal.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "three-drives-pattern",
+    "term": "Three Drives Pattern",
+    "category": "chart_patterns",
+    "image": "../assets/charts/three-drives-pattern.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "abcd-pattern",
+    "term": "ABCD Pattern",
+    "category": "chart_patterns",
+    "image": "../assets/charts/abcd-pattern.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "gartley-pattern",
+    "term": "Gartley Pattern",
+    "category": "chart_patterns",
+    "image": "../assets/charts/gartley-pattern.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "bat-pattern",
+    "term": "Bat Pattern",
+    "category": "chart_patterns",
+    "image": "../assets/charts/bat-pattern.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "butterfly-pattern",
+    "term": "Butterfly Pattern",
+    "category": "chart_patterns",
+    "image": "../assets/charts/butterfly-pattern.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "crab-pattern",
+    "term": "Crab Pattern",
+    "category": "chart_patterns",
+    "image": "../assets/charts/crab-pattern.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "shark-pattern",
+    "term": "Shark Pattern",
+    "category": "chart_patterns",
+    "image": "../assets/charts/shark-pattern.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "wolfe-wave",
+    "term": "Wolfe Wave",
+    "category": "chart_patterns",
+    "image": "../assets/charts/wolfe-wave.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "elliott-impulse-wave",
+    "term": "Elliott Impulse Wave",
+    "category": "chart_patterns",
+    "image": "../assets/charts/elliott-impulse-wave.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "elliott-corrective-wave",
+    "term": "Elliott Corrective Wave",
+    "category": "chart_patterns",
+    "image": "../assets/charts/elliott-corrective-wave.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "wyckoff-accumulation",
+    "term": "Wyckoff Accumulation",
+    "category": "chart_patterns",
+    "image": "../assets/charts/wyckoff-accumulation.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "wyckoff-distribution",
+    "term": "Wyckoff Distribution",
+    "category": "chart_patterns",
+    "image": "../assets/charts/wyckoff-distribution.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "spring",
+    "term": "Spring (Wyckoff)",
+    "category": "chart_patterns",
+    "image": "../assets/charts/spring.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "upthrust",
+    "term": "Upthrust (Wyckoff)",
+    "category": "chart_patterns",
+    "image": "../assets/charts/upthrust.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "breakout",
+    "term": "Breakout",
+    "category": "chart_patterns",
+    "image": "../assets/charts/breakout.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "breakdown",
+    "term": "Breakdown",
+    "category": "chart_patterns",
+    "image": "../assets/charts/breakdown.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "pullback",
+    "term": "Pullback",
+    "category": "chart_patterns",
+    "image": "../assets/charts/pullback.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "throwback",
+    "term": "Throwback",
+    "category": "chart_patterns",
+    "image": "../assets/charts/throwback.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "retest",
+    "term": "Retest",
+    "category": "chart_patterns",
+    "image": "../assets/charts/retest.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "bull-trap",
+    "term": "Bull Trap",
+    "category": "chart_patterns",
+    "image": "../assets/charts/bull-trap.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "bear-trap",
+    "term": "Bear Trap",
+    "category": "chart_patterns",
+    "image": "../assets/charts/bear-trap.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "false-breakout",
+    "term": "False Breakout",
+    "category": "chart_patterns",
+    "image": "../assets/charts/false-breakout.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "trendline-break",
+    "term": "Trendline Break",
+    "category": "chart_patterns",
+    "image": "../assets/charts/trendline-break.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "golden-cross",
+    "term": "Golden Cross",
+    "category": "chart_patterns",
+    "image": "../assets/charts/golden-cross.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "death-cross",
+    "term": "Death Cross",
+    "category": "chart_patterns",
+    "image": "../assets/charts/death-cross.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "support-level",
+    "term": "Support Level",
+    "category": "chart_patterns",
+    "image": "../assets/charts/support-level.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "resistance-level",
+    "term": "Resistance Level",
+    "category": "chart_patterns",
+    "image": "../assets/charts/resistance-level.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "doji",
+    "term": "Doji",
+    "category": "candlesticks",
+    "image": "../assets/charts/doji.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "long-legged-doji",
+    "term": "Long-Legged Doji",
+    "category": "candlesticks",
+    "image": "../assets/charts/long-legged-doji.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "dragonfly-doji",
+    "term": "Dragonfly Doji",
+    "category": "candlesticks",
+    "image": "../assets/charts/dragonfly-doji.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "gravestone-doji",
+    "term": "Gravestone Doji",
+    "category": "candlesticks",
+    "image": "../assets/charts/gravestone-doji.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "hammer",
+    "term": "Hammer",
+    "category": "candlesticks",
+    "image": "../assets/charts/hammer.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "hanging-man",
+    "term": "Hanging Man",
+    "category": "candlesticks",
+    "image": "../assets/charts/hanging-man.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "inverted-hammer",
+    "term": "Inverted Hammer",
+    "category": "candlesticks",
+    "image": "../assets/charts/inverted-hammer.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "shooting-star",
+    "term": "Shooting Star",
+    "category": "candlesticks",
+    "image": "../assets/charts/shooting-star.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "bullish-engulfing",
+    "term": "Bullish Engulfing",
+    "category": "candlesticks",
+    "image": "../assets/charts/bullish-engulfing.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "bearish-engulfing",
+    "term": "Bearish Engulfing",
+    "category": "candlesticks",
+    "image": "../assets/charts/bearish-engulfing.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "bullish-harami",
+    "term": "Bullish Harami",
+    "category": "candlesticks",
+    "image": "../assets/charts/bullish-harami.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "bearish-harami",
+    "term": "Bearish Harami",
+    "category": "candlesticks",
+    "image": "../assets/charts/bearish-harami.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "harami-cross",
+    "term": "Harami Cross",
+    "category": "candlesticks",
+    "image": "../assets/charts/harami-cross.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "morning-star",
+    "term": "Morning Star",
+    "category": "candlesticks",
+    "image": "../assets/charts/morning-star.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "evening-star",
+    "term": "Evening Star",
+    "category": "candlesticks",
+    "image": "../assets/charts/evening-star.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "morning-doji-star",
+    "term": "Morning Doji Star",
+    "category": "candlesticks",
+    "image": "../assets/charts/morning-doji-star.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "evening-doji-star",
+    "term": "Evening Doji Star",
+    "category": "candlesticks",
+    "image": "../assets/charts/evening-doji-star.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "three-white-soldiers",
+    "term": "Three White Soldiers",
+    "category": "candlesticks",
+    "image": "../assets/charts/three-white-soldiers.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "three-black-crows",
+    "term": "Three Black Crows",
+    "category": "candlesticks",
+    "image": "../assets/charts/three-black-crows.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "piercing-pattern",
+    "term": "Piercing Pattern",
+    "category": "candlesticks",
+    "image": "../assets/charts/piercing-pattern.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "dark-cloud-cover",
+    "term": "Dark Cloud Cover",
+    "category": "candlesticks",
+    "image": "../assets/charts/dark-cloud-cover.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "tweezer-top",
+    "term": "Tweezer Top",
+    "category": "candlesticks",
+    "image": "../assets/charts/tweezer-top.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "tweezer-bottom",
+    "term": "Tweezer Bottom",
+    "category": "candlesticks",
+    "image": "../assets/charts/tweezer-bottom.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "marubozu",
+    "term": "Marubozu",
+    "category": "candlesticks",
+    "image": "../assets/charts/marubozu.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "spinning-top",
+    "term": "Spinning Top",
+    "category": "candlesticks",
+    "image": "../assets/charts/spinning-top.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "inside-bar",
+    "term": "Inside Bar",
+    "category": "candlesticks",
+    "image": "../assets/charts/inside-bar.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "outside-bar",
+    "term": "Outside Bar",
+    "category": "candlesticks",
+    "image": "../assets/charts/outside-bar.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "bullish-abandoned-baby",
+    "term": "Bullish Abandoned Baby",
+    "category": "candlesticks",
+    "image": "../assets/charts/bullish-abandoned-baby.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "bearish-abandoned-baby",
+    "term": "Bearish Abandoned Baby",
+    "category": "candlesticks",
+    "image": "../assets/charts/bearish-abandoned-baby.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "three-inside-up",
+    "term": "Three Inside Up",
+    "category": "candlesticks",
+    "image": "../assets/charts/three-inside-up.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "three-inside-down",
+    "term": "Three Inside Down",
+    "category": "candlesticks",
+    "image": "../assets/charts/three-inside-down.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "three-outside-up",
+    "term": "Three Outside Up",
+    "category": "candlesticks",
+    "image": "../assets/charts/three-outside-up.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "three-outside-down",
+    "term": "Three Outside Down",
+    "category": "candlesticks",
+    "image": "../assets/charts/three-outside-down.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "rising-three-methods",
+    "term": "Rising Three Methods",
+    "category": "candlesticks",
+    "image": "../assets/charts/rising-three-methods.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "falling-three-methods",
+    "term": "Falling Three Methods",
+    "category": "candlesticks",
+    "image": "../assets/charts/falling-three-methods.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "kicking-pattern",
+    "term": "Kicking Pattern",
+    "category": "candlesticks",
+    "image": "../assets/charts/kicking-pattern.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  },
+  {
+    "id": "belt-hold",
+    "term": "Belt Hold",
+    "category": "candlesticks",
+    "image": "../assets/charts/belt-hold.svg",
+    "kind": "original_schematic",
+    "warning": "Stylized illustration; not real price data and not a validated pattern detector."
+  }
+]

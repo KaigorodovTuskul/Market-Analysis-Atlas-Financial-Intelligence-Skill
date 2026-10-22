@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
+dist/
+*.egg-info/
+skills/market-analysis-atlas/data/investopedia-index.jsonl
+skills/market-analysis-atlas/data/imported-index.jsonl
+skills/market-analysis-atlas/data/index-sync-report.json

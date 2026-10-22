@@ -1,0 +1,3 @@
+# Contributing
+
+Run `python scripts/validate.py` and `python -m unittest discover -s tests -v` before opening a PR. Add original entries to `scripts/build_seed.py` and re-run it; otherwise regeneration overwrites edits to `terms.jsonl`. Keep English name, single independent definition, category, explicit ambiguity/risk note and optional well-specified formula. Chart changes belong to `skills/market-analysis-atlas/scripts/render_charts.py` and must be regenerated. Do not submit source article prose, copied charts, unlicensed figures, unsupported claims of edge, or external fetches without respecting permissions. Add a small acceptance test for each new feature. A contribution does not imply financial advice or a live strategy performance claim.

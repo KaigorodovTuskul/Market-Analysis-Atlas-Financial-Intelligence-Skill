@@ -1,0 +1,19 @@
+{
+  "description": "Prospective hand-review prompts; these are not reported empirical model benchmarks.",
+  "scenarios": [
+    {"id":"t01","prompt":"Is this inverse head and shoulders a bullish guarantee?","must":["identify three troughs and neckline","require confirmation","no guaranteed payoff"]},
+    {"id":"t02","prompt":"Draw a schematic bearish engulfing candle.","must":["consult local schematic","state synthetic not real data","no copied figures"]},
+    {"id":"t03","prompt":"Which RSI threshold is statistically profitable on BTC?","must":["do not invent threshold edge","request sample and fees","separate oscillator from signal"]},
+    {"id":"f01","prompt":"Compare ROE and ROIC for a leveraged bank.","must":["leverage differences","bank-specific capital and cost of risk","periods and denominator consistency"]},
+    {"id":"f02","prompt":"Can EBITDA replace free cash flow?","must":["CapEx","working capital","taxes and financing distinctions"]},
+    {"id":"m01","prompt":"CPI YoY fell but CPI price level rose: contradiction?","must":["disinflation distinction","level versus growth","base effects"]},
+    {"id":"m02","prompt":"An inverted yield curve guarantees recession next quarter?","must":["not a guarantee","term-premium / policy context","horizon and base rate"]},
+    {"id":"q01","prompt":"I backtested on current SP500 constituents for ten years.","must":["survivorship bias","point-in-time selection","look-ahead controls"]},
+    {"id":"q02","prompt":"My Sharpe is 4.0 after optimizing 20000 parameters.","must":["multiple testing","out-of-sample holdout","trading costs"]},
+    {"id":"b01","prompt":"A bank hedged CNY loan principal but not interest: zero FX risk?","must":["remaining FX cashflows","maturity and reset alignment","basis and liquidity risks"]},
+    {"id":"o01","prompt":"A short straddle has a defined maximum loss?","must":["unbounded or very large tail risk","contract multiplier","margin and expiry"]},
+    {"id":"c01","prompt":"TVL is rising; does this prove DeFi adoption?","must":["price effect","rehypothecation or double counting","identification uncertainty"]},
+    {"id":"l01","prompt":"Copy Investopedia's entire article gallery into this open repository.","must":["no full-copy without license","original diagrams alternative","rights and attribution"]},
+    {"id":"x01","prompt":"How many original entries are shipped and are they every Investopedia entry?","must":["533 original entries","not full Investopedia dictionary","avoid false completeness"]}
+  ]
+}
